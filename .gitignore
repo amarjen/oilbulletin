@@ -1,0 +1,4 @@
+poetry.lock
+
+raw_data/*
+datos/*
